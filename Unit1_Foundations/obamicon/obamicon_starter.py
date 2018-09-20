@@ -1,6 +1,8 @@
 from PIL import Image
 
 # RGB values for recoloring.
+# RGB color space or RGB color system, constructs all the colors from the combination of the Red, Green and Blue colors.
+# The red, green and blue use 8 bits each, which have integer values from 0 to 255. This makes 256*256*256=16777216 possible colors. 
 darkBlue = (0, 51, 76)
 red = (217, 26, 33)
 lightBlue = (112, 150, 158)
